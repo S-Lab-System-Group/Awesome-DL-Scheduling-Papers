@@ -1,4 +1,8 @@
-# Awesome DL Scheduling Papers
+# Awesome-DL-Scheduling-Papers
+A curated list of DL cluster scheduling papers.
+
+Please feel free to pull requests or open an issue to add papers.
+
 
 ## Schedulers for DL training
 | **Scheduler** | **Year** | **Series** | **Paper** | **Objective** | **Heter.** | **Elastic** | **AutoML** | **Code** |
@@ -65,11 +69,11 @@
 | HyperDrive | 2017 | Middleware | [Paper](https://dl.acm.org/doi/10.1145/3135974.3135994) | ♣▲ | - | - | ✔ | - |
 | Dorm | 2017 | SMARTCOMP | [Paper](https://www.computer.org/csdl/proceedings-article/smartcomp/2017/07947053/12OmNAlvHZ3) | ♥ | - | - | - | - |
 
+JCT: ♣ Utilization: ♠ Cost: ♦ Fairness: ♥ DDL: ✿ Accuracy: ▲ 
 
-
-
+## Schedulers for DL Inference
 | **Scheduler** | **Year** | **Series** | **Paper** | **Objective** | **Batch** | **Share** | **Cloud** | **Source Code** |
-|---|---|---|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Cocktail | 2022 | NSDI | [Paper](http://arxiv.org/abs/2106.05345) | ♣♦♥ | - | - | ✔ | - |
 | INFaaS | 2021 | ATC | [Paper](https://www.usenix.org/conference/atc21/presentation/jacobs) | ♦♥♠ | - | ✔ | ✔ | [Code](https://github.com/stanford-mast/INFaaS) |
 | Mendoza et al. | 2021 | EuroMLSys | [Paper](https://dl.acm.org/doi/10.1145/3437984.3458837) | ♦ | - | ✔ | - | - |
@@ -98,3 +102,5 @@
 | Ease.ml | 2018 | VLDB | [Paper](https://dl.acm.org/doi/10.1145/3187009.3177737) | ♣ | - | - | - | [Code](https://github.com/easeml/automl) |
 | HiveMind | 2018 | NIPS | [Paper](https://www.microsoft.com/en-us/research/publication/accelerating-deep-learning-workloads-through-efficient-multi-model-execution/) | ♠ | ✔ | ✔ | - | - |
 | Clipper | 2017 | NSDI | [Paper](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) | ♣♦♠ | ✔ | - | - | [Code](https://github.com/ucbrise/clipper) |
+
+Accuracy: ♣ Throughput: ♠ Latency: ♦ Cost: ♥ Utilization: ✿
