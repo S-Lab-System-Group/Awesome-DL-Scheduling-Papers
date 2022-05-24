@@ -64,3 +64,37 @@
 | Topology-Aware | 2017 | SC | [Paper](https://dl.acm.org/doi/10.1145/3126908.3126933) | ♣ | - | - | - | [Code](https://github.com/HiEST/gpu-topo-aware) |
 | HyperDrive | 2017 | Middleware | [Paper](https://dl.acm.org/doi/10.1145/3135974.3135994) | ♣▲ | - | - | ✔ | - |
 | Dorm | 2017 | SMARTCOMP | [Paper](https://www.computer.org/csdl/proceedings-article/smartcomp/2017/07947053/12OmNAlvHZ3) | ♥ | - | - | - | - |
+
+
+
+
+| **Scheduler** | **Year** | **Series** | **Paper** | **Objective** | **Batch** | **Share** | **Cloud** | **Source Code** |
+|---|---|---|---|---|---|---|---|---|
+| Cocktail | 2022 | NSDI | [Paper](http://arxiv.org/abs/2106.05345) | ♣♦♥ | - | - | ✔ | - |
+| INFaaS | 2021 | ATC | [Paper](https://www.usenix.org/conference/atc21/presentation/jacobs) | ♦♥♠ | - | ✔ | ✔ | [Code](https://github.com/stanford-mast/INFaaS) |
+| Mendoza et al. | 2021 | EuroMLSys | [Paper](https://dl.acm.org/doi/10.1145/3437984.3458837) | ♦ | - | ✔ | - | - |
+| Morphling | 2021 | SoCC | [Paper](https://dl.acm.org/doi/10.1145/3472883.3486987) | ♥♠ | ✔ | ✔ | ✔ | [Code](https://github.com/kubedl-io/morphling) |
+| Abacus | 2021 | SC | [Paper](https://dl.acm.org/doi/10.1145/3458817.3476143) | ♦♠ | - | ✔ | - | [Code](https://github.com/Raphael-Hao/Abacus) |
+| MIG-SERVING | 2021 | CoRR | [Paper](http://arxiv.org/abs/2109.11067) | ♦♥ | ✔ | ✔ | - | - |
+| GSLICE | 2020 | SoCC | [Paper](https://dl.acm.org/doi/10.1145/3419111.3421284) | ♠✿ | ✔ | ✔ | - | - |
+| Clockwork | 2020 | OSDI | [Paper](https://www.usenix.org/conference/osdi20/presentation/gujarati) | ♦♠ | ✔ | - | - | [Code](https://gitlab.mpi-sws.org/cld/ml/clockwork) |
+| CMS | 2020 | Future Internet | [Paper](https://www.mdpi.com/1999-5903/12/6/102) | ♣✿ | - | - | - | - |
+| Irina | 2020 | APNet | [Paper](https://dl.acm.org/doi/10.1145/3411029.3411035) | ♦♠✿ | ✔ | ✔ | - | - |
+| PERSEUS | 2020 | IC2E | [Paper](https://ieeexplore.ieee.org/document/9096261/) | ♦♥♠ | ✔ | - | ✔ | [Code](https://github.com/cake-lab/perseus) |
+| AutoDeep | 2020 | Infocom | [Paper](https://ieeexplore.ieee.org/document/9155267) | ♦♥♠ | - | ✔ | ✔ | - |
+| DyBatch | 2020 | CCGrid | [Paper](https://ieeexplore.ieee.org/document/9139602) | ♦♠ | ✔ | ✔ | - | - |
+| Inferline | 2020 | SoCC | [Paper](https://dl.acm.org/doi/10.1145/3419111.3421285) | ♦♥ | ✔ | - | ✔ | [Code](https://github.com/simon-mo/inferline-models) |
+| MArk | 2019 | ATC | [Paper](https://www.usenix.org/conference/atc19/presentation/zhang-chengliang) | ♦♥ | ✔ | - | ✔ | [Code](https://github.com/marcoszh/MArk-Project) |
+| Tolerance Tiers | 2019 | ISPASS | [Paper](https://ieeexplore.ieee.org/abstract/document/8695638/) | ♣♦♥ | - | - | ✔ | - |
+| ParM | 2019 | SOSP | [Paper](https://dl.acm.org/doi/10.1145/3341301.3359654) | ♦ | ✔ | - | - | [Code](https://github.com/thesys-lab/parity-models) |
+| Gilman et al. | 2019 | DIDL | [Paper](https://dl.acm.org/doi/10.1145/3366622.3368147) | ♦♠ | - | ✔ | - | - |
+| Nanily | 2019 | HPCC | [Paper](https://ieeexplore.ieee.org/document/8855453) | ♦♠ | ✔ | - | - | - |
+| RRL | 2019 | SC | [Paper](https://dl.acm.org/doi/10.1145/3295500.3356164) | ♦ | ✔ | ✔ | - | [Code](https://github.com/HeyangQin/RRL) |
+| Kube-Knots | 2019 | CLUSTER | [Paper](https://ieeexplore.ieee.org/document/8891040) | ♦✿ | ✔ | ✔ | - | - |
+| TrIMS | 2019 | CLOUD | [Paper](https://ieeexplore.ieee.org/document/8814494) | ♦♠✿ | ✔ | ✔ | ✔ | [Code](https://github.com/rai-project/trims_mxnet) |
+| Ebird | 2019 | ICCD | [Paper](https://ieeexplore.ieee.org/abstract/document/8988602/) | ♦♠✿ | ✔ | ✔ | - | [Code](https://github.com/sjtu-epcc/Ebird) |
+| Rafiki | 2018 | VLDB | [Paper](https://dl.acm.org/doi/10.14778/3282495.3282499) | ♣♦ | ✔ | - | - | [Code](https://github.com/nginyc/rafiki) |
+| Space-Time | 2018 | NIPS | [Paper](http://learningsys.org/nips18/assets/papers/102CameraReadySubmissionGPU_Virtualization%20(8).pdf) | ♠✿ | ✔ | ✔ | - | - |
+| Ease.ml | 2018 | VLDB | [Paper](https://dl.acm.org/doi/10.1145/3187009.3177737) | ♣ | - | - | - | [Code](https://github.com/easeml/automl) |
+| HiveMind | 2018 | NIPS | [Paper](https://www.microsoft.com/en-us/research/publication/accelerating-deep-learning-workloads-through-efficient-multi-model-execution/) | ♠ | ✔ | ✔ | - | - |
+| Clipper | 2017 | NSDI | [Paper](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) | ♣♦♠ | ✔ | - | - | [Code](https://github.com/ucbrise/clipper) |
