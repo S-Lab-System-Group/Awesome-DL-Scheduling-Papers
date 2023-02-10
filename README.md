@@ -111,7 +111,7 @@ Accuracy: ♣ Throughput: ♠ Latency: ♦ Cost: ♥ Utilization: ✿
 | Terminology | Definition                                                  |
 |-------------|-------------------------------------------------------------|
 | JCT         | Job Completion Time (Job Finish Time - Job Submission Time) |
-| Fairness    | Fairly share resources among users or jobs                  |
+| Fairness    | a metric to assess whether resources are fairly shared among users or jobs                  |
 | QoS         | Quality of Service                                          |
-| DDL         | Deadline                                                    |
+| DDL         | Deadline, a time point where DL job must be completed                                                   |
 | SLO         | Service Level Objective                                     |
