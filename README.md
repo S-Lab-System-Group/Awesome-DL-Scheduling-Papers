@@ -104,3 +104,14 @@ JCT: ♣ Utilization: ♠ Cost: ♦ Fairness: ♥ DDL: ✿ Accuracy: ▲
 | Clipper | 2017 | NSDI | [Paper](https://www.usenix.org/conference/nsdi17/technical-sessions/presentation/crankshaw) | ♣♦♠ | ✔ | - | - | [Code](https://github.com/ucbrise/clipper) |
 
 Accuracy: ♣ Throughput: ♠ Latency: ♦ Cost: ♥ Utilization: ✿
+
+
+## Gloosary of Terms 
+
+| Terminology | Definition                                                  |
+|-------------|-------------------------------------------------------------|
+| JCT         | Job Completion Time (Job Finish Time - Job Submission Time) |
+| Fairness    | a metric to assess whether resources are fairly shared among users or jobs                  |
+| QoS         | Quality of Service                                          |
+| DDL         | Deadline, a time point where DL job must be completed                                                   |
+| SLO         | Service Level Objective                                     |
