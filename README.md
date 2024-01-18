@@ -122,7 +122,7 @@ Please feel free to pull requests or open an issue to add papers.
 | iGniter | 2023 | TPDS | [Paper](https://ieeexplore.ieee.org/document/10002315) | ✿♥ | ✔ | ✔ | ✔ | [Code](https://github.com/icloud-ecnu/igniter) |
 | Gpulet | 2022 | ATC | [Paper](https://www.usenix.org/conference/atc22/presentation/choi-seungbeom) | ✿♠♥ | ✔ | ✔ | - | [Code](https://github.com/casys-kaist/glet) |
 | Cocktail | 2022 | NSDI | [Paper](https://www.usenix.org/conference/nsdi22/presentation/gunasekaran) | ♣♦♥ | - | - | ✔ | [Code](https://github.com/jashwantraj92/cocktail) |
-| INFaaS | 2021 | ATC | [Paper](https://www.usenix.org/conference/atc21/presentation/jacobs) | ♦♥♠ | - | ✔ | ✔ | [Code](https://github.com/stanford-mast/INFaaS) |
+| INFaaS | 2021 | ATC | [Paper](https://www.usenix.org/system/files/atc21-romero.pdf) | ♦♥♠ | - | ✔ | ✔ | [Code](https://github.com/stanford-mast/INFaaS) |
 | MIG-SERVING | 2021 | CoRR | [Paper](http://arxiv.org/abs/2109.11067) | ♦♥ | ✔ | ✔ | - | - |
 | Mendoza et al. | 2021 | EuroMLSys | [Paper](https://dl.acm.org/doi/10.1145/3437984.3458837) | ♦ | - | ✔ | - | - |
 | Abacus | 2021 | SC | [Paper](https://dl.acm.org/doi/10.1145/3458817.3476143) |  ♦♠ | - | ✔ | - | [Code](https://github.com/Raphael-Hao/Abacus) |
